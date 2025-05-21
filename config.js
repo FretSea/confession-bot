@@ -9,7 +9,7 @@ Copyright (c) 2024 Wick Studio | discord.gg/wicks
 */
 
 module.exports = {
-    token: 'MTM3NDU2NTY5MTQ4NjkwMDI3NA.GKnxxR.NdjW5xAzxOLX-oLvpZm0fHHg4j2--gsKjokYlw',           // توكن بوتك
+    token: '',           // توكن بوتك
     clientId: '1374565691486900274',          // ايدي البوت
     guildId: '782222863465185281',          // ايدي سيرفرك
     logChannelId: '1374566187329130570',    // ايدي روم الوق
